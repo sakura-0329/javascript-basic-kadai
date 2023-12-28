@@ -1,4 +1,4 @@
-const dateName = new Date([2023,12,28]);
+const dateName = new Date();
 //dateNameを定義、dateNameという名前の変数にnew Date([2023,8,22])という値を代入
 
 const date = () => {
